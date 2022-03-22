@@ -1,5 +1,5 @@
 # DELE-Project
-A Pytorch implementation of Zhang-Kun's R2-Net[https://www.aaai.org/AAAI21Papers/AAAI-6199.ZhangK.pdf] for Text Classification from AAAI 2019, and DELE[] for Text classification.
+A Pytorch implementation of Zhang-Kun's [R2-Net](https://www.aaai.org/AAAI21Papers/AAAI-6199.ZhangK.pdf) for Text Classification from AAAI 2019, and [DELE]() for Text classification.
 
 
 # Bibtex
